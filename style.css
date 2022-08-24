@@ -33,7 +33,7 @@
 }
 .list-item{
     font-size: larger;
-    font-family: "Poppins", sans-serif;
+    font-family: Orbitron, sans-serif;
     transition: all 0.1s ease-in-out;
 
 }
@@ -93,7 +93,7 @@
     width:21vw;
     position: absolute;
     top:190px;
-    left:170px;
+    left:160px;
    
     
 }
@@ -133,8 +133,8 @@
     width:30px;
 }
 .hero-heading{
-    font-size: 4rem;
-    font-family: "Poppins", sans-serif;
+    font-size: 3.5rem;
+    font-family: Orbitron, sans-serif;
 
 }
 .hero-description{
@@ -154,7 +154,7 @@
     background-color: #ffffff;
     border-color: black;
     width:auto;
-    font-family: "Poppins", sans-serif;
+    font-family: Orbitron, sans-serif;
     border-radius: 8px;
     color:#808080;
     transition: all 0.5s ease-in-out ;
